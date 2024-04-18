@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "jgardo-example-app": {
-      "script-ref": "jgardo_example_app.java",
-      "description": "Example CLI"
+  "aliases" : {
+    "jgardo-example-app" : {
+      "script-ref" : "jgardo_example_app.java",
+      "description" : "Example CLI"
     }
   }
 }
